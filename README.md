@@ -1,4 +1,4 @@
-# drracket
+# dwracket
 
 This the source for the Racket packages: "drracket", "drracket-plugin-lib", "drracket-test", "drracket-tool", "drracket-tool-doc", "drracket-tool-lib", "drracket-tool-test".
 
@@ -10,7 +10,7 @@ IRC or Slack channels.
 
 ### License
 
-Racket, including these packages, is free software, see [LICENSE]
+Digital Waveform Racket, including these packages, is free software, see [LICENSE]
 for more details.
 
 By making a contribution, you are agreeing that your contribution
